@@ -1,4 +1,4 @@
-# Data-analytics-2-group---Obama-forecasts
+# Data-analytics-2-group---Obama and NICU -forecasts
 
 Group project for Data Analytics II UCL module.
 
